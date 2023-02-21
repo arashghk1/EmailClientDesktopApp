@@ -1,21 +1,30 @@
-MIT License
+#Email Sending Desktop Application
+This is a simple desktop application developed in C# using .NET Framework 4.7 that allows users to send emails from their desktop. The application provides an intuitive and user-friendly interface that enables users to easily compose and send emails.
 
-Copyright (c) 2023 arashghk1
+#Features
+The application offers the following features:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Compose and send emails using an intuitive interface
+Supports sending emails to multiple recipients
+Supports adding attachments to emails
+Supports sending emails using SMTP (Simple Mail Transfer Protocol)
+Provides feedback to the user on the status of the email sending process
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+#Installation
+To use this application, you need to have the .NET Framework 4.7 installed on your system. You can download and install it from the official Microsoft website.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Once you have the .NET Framework installed, you can clone or download the repository and build the solution using Visual Studio or any other compatible IDE.
+
+#Usage
+After building the solution, run the application by launching the executable file. The application interface will appear, allowing you to compose and send emails.
+
+To send an email, enter the recipient's email address, subject, message body, and attach any files if necessary. Once you have composed your email, click the "Send" button to send it.
+
+#Support
+If you encounter any issues while using the application, please create an issue on the repository's issue tracker. We will do our best to address the issue and provide a solution as soon as possible.
+
+#Contributing
+Contributions are welcome! If you would like to contribute to the project, please fork the repository and create a pull request with your changes.
+
+#License
+This project is licensed under the MIT License. See the LICENSE file for details.
