@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NewSmtp">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\NewSmtp.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\NewSmtp.suo">
+</Property><Property Name="Date" Value="2012/10/17">
+</Property><Property Name="Time" Value="16:58 ب.ظ">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NewSmtp.sln" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NewSmtp.suo" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp.suo">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\NewSmtp.csproj" Description="Project file successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp\NewSmtp.csproj">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\Form1.cs" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp\Form1.cs">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\Form1.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\Program.cs" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp\Program.cs">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp\Form1.resx">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\user\Desktop\C# Sharp Sources\100_C#.Net_Source Code\More Project\NewSmtp\Backup\NewSmtp\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="NewSmtp" Source="NewSmtp\NewSmtp.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\NewSmtp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NewSmtp" Source="NewSmtp\NewSmtp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NewSmtp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NewSmtp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NewSmtp" Source="NewSmtp\NewSmtp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
