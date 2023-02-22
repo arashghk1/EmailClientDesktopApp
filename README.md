@@ -1,4 +1,4 @@
-# Email Sending Desktop Application
+# Email Client Desktop Application
 This is a simple desktop application developed in C# using .NET Framework 4.7 that allows users to send emails from their desktop. The application provides an intuitive and user-friendly interface that enables users to easily compose and send emails.
 
 # Features
